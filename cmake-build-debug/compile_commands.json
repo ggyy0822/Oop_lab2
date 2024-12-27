@@ -1,0 +1,176 @@
+[
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/runtime/main.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/runtime/main.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/runtime/main.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/runtime/main.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/runtime/Runtime.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/runtime/Runtime.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/runtime/Runtime.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/runtime/Runtime.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/src/Blinky.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Blinky.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Blinky.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/src/Blinky.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/src/Clyde.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Clyde.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Clyde.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/src/Clyde.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/src/Inky.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Inky.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Inky.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/src/Inky.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/src/Pinky.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Pinky.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Pinky.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/src/Pinky.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/src/Player.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Player.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Player.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/src/Player.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/src/Map.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Map.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Map.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/src/Map.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/src/Dot.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Dot.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Dot.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/src/Dot.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/src/MovementState.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/MovementState.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/MovementState.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/src/MovementState.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/src/ChaseState.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/ChaseState.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/ChaseState.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/src/ChaseState.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/src/ScatterState.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/ScatterState.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/ScatterState.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/src/ScatterState.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -o CMakeFiles/OOPLAB.dir/src/DotManager.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/DotManager.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/DotManager.cpp",
+  "output": "CMakeFiles/OOPLAB.dir/src/DotManager.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -Wall -pedantic -o CMakeFiles/ut_all.dir/src/Blinky.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Blinky.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Blinky.cpp",
+  "output": "CMakeFiles/ut_all.dir/src/Blinky.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -Wall -pedantic -o CMakeFiles/ut_all.dir/src/Clyde.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Clyde.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Clyde.cpp",
+  "output": "CMakeFiles/ut_all.dir/src/Clyde.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -Wall -pedantic -o CMakeFiles/ut_all.dir/src/Inky.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Inky.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Inky.cpp",
+  "output": "CMakeFiles/ut_all.dir/src/Inky.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -Wall -pedantic -o CMakeFiles/ut_all.dir/src/Pinky.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Pinky.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Pinky.cpp",
+  "output": "CMakeFiles/ut_all.dir/src/Pinky.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -Wall -pedantic -o CMakeFiles/ut_all.dir/src/Player.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Player.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Player.cpp",
+  "output": "CMakeFiles/ut_all.dir/src/Player.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -Wall -pedantic -o CMakeFiles/ut_all.dir/src/Map.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Map.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Map.cpp",
+  "output": "CMakeFiles/ut_all.dir/src/Map.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -Wall -pedantic -o CMakeFiles/ut_all.dir/src/Dot.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/Dot.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/Dot.cpp",
+  "output": "CMakeFiles/ut_all.dir/src/Dot.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -Wall -pedantic -o CMakeFiles/ut_all.dir/src/MovementState.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/MovementState.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/MovementState.cpp",
+  "output": "CMakeFiles/ut_all.dir/src/MovementState.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -Wall -pedantic -o CMakeFiles/ut_all.dir/src/ChaseState.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/ChaseState.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/ChaseState.cpp",
+  "output": "CMakeFiles/ut_all.dir/src/ChaseState.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -Wall -pedantic -o CMakeFiles/ut_all.dir/src/ScatterState.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/ScatterState.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/ScatterState.cpp",
+  "output": "CMakeFiles/ut_all.dir/src/ScatterState.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -Wall -pedantic -o CMakeFiles/ut_all.dir/src/DotManager.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/src/DotManager.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/src/DotManager.cpp",
+  "output": "CMakeFiles/ut_all.dir/src/DotManager.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics -Wall -pedantic -o CMakeFiles/ut_all.dir/test/ut_GamePosition.cpp.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/test/ut_GamePosition.cpp",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/test/ut_GamePosition.cpp",
+  "output": "CMakeFiles/ut_all.dir/test/ut_GamePosition.cpp.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googlemock/include -I/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googlemock -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googlemock/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googlemock -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -I/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -I/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/include -isystem /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest -g -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.1 -fcolor-diagnostics  -DGTEST_HAS_PTHREAD=1   -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

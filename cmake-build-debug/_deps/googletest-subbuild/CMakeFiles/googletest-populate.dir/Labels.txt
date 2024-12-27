@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+/Users/ggyy_0822/Desktop/OOP2024f_lab/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule
